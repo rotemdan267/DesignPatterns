@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{DF259592-BAA2-4296-A805-07A5BBAED508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{69BCE230-97C0-43BD-8FAC-E1ED7075DCDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{69BCE230-97C0-43BD-8FAC-E1ED7075DCDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{788F5D52-3E62-46CD-A072-2E2CE6CEB544}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{69BCE230-97C0-43BD-8FAC-E1ED7075DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69BCE230-97C0-43BD-8FAC-E1ED7075DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69BCE230-97C0-43BD-8FAC-E1ED7075DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788F5D52-3E62-46CD-A072-2E2CE6CEB544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788F5D52-3E62-46CD-A072-2E2CE6CEB544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788F5D52-3E62-46CD-A072-2E2CE6CEB544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788F5D52-3E62-46CD-A072-2E2CE6CEB544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
