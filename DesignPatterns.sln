@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{788F5D52-3E62-46CD-A072-2E2CE6CEB544}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{C1853B12-7218-4BBB-8776-9385FE05C475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{788F5D52-3E62-46CD-A072-2E2CE6CEB544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{788F5D52-3E62-46CD-A072-2E2CE6CEB544}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{788F5D52-3E62-46CD-A072-2E2CE6CEB544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1853B12-7218-4BBB-8776-9385FE05C475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1853B12-7218-4BBB-8776-9385FE05C475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1853B12-7218-4BBB-8776-9385FE05C475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1853B12-7218-4BBB-8776-9385FE05C475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
